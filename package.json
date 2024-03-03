@@ -1,0 +1,29 @@
+{
+  "name": "tinhtong2so",
+  "version": "1.0.0",
+  "description": "M?t thu vi?n giúp b?n tính hi?u c?a 2 s? b?t k?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "sum-setpass": "^1.0.0",
+    "tinhtong2so": "^1.0.0",
+    "sum2nb": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tranphuckhanga/tinhtong2so"
+  },
+  "homepage": "twitter.com/tranphuckhanga",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "tranphuckhanga",
+  "license": "MIT"
+}
